@@ -55,3 +55,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Generated HTML files
+*.html
+
+# The DS Store from Mac
+.DS_Store
